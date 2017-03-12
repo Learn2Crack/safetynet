@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SafetyNet</string>
+    <string name="api_key">Your API Key</string>
+</resources>
